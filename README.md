@@ -10,6 +10,18 @@
   * For example, in order to facilitate Sprint Planning, I created an LLM tool that my team can use to generate developer stories. All they need to do is to point the LLM bot to a Slack thread or email chain, and based on the context it would generate a dev story according to our template
   * In moments, when my team is strained, I don't hesistate to become hands-on and help them by squashing smaller tasks or help investigating system failures
 
+# Think Big
+## Question 1
+Tell me about a time when you thought differently to improve a process that was working
+* What assumptions did you have to question?
+* How did you evaluate if the change improved the process?
+* Knowing what you know now, would you do anything differently?
+### Answer
+**S:** Ever since I joined Amazon, it's been bothering me how engineering teams track their project progress. Typically, it is engineers creating one-liner tasks (like "Update schema for XYZ table") and managers maintaining their convoluted spreadsheet.
+**T:** When I started managing an engineering team, my first goal was to standartize the process according to the modern agile practices. I read a few books, articles, and watched lectures on the topic. I wanted to understand not just how to organize these practices, but the underlining reason behind it. For example, I learned that Scoping meetings are not just used to assign points to a story and estimate the workload, but actually let the entire team learn about the task on hand while they may not necessarily be the one to actually work on it. Another goal I set for myself was that I would like to make it flexible, not just follow the book, and work together with the team and establish the process that would work for everyone, adjust it and experiment with it as we go.
+**A:** I secured access to Asana work management tool for my team, build initial structure for our backlog, sprint boards, established templates for dev stories and spikes, and wrote first few stories to lead by example. Next, I created a comprehensive internal wiki article where I outlined the proposed agile process. I kept it simple and to bear bones, sprint planning, standups, scoping and retrospective. I clearly articulated roles and responsibilities. Next day, I held a learning session where I shared my proposed workflow with my engineering team.
+**R:** Although initially, I saw hesitation to use the new tools, I knew that the team will take time to adjust. Initially, I continued writing stories, but eventually started delegating and requesting engineers write their own stories. During 1:1s I would solicit feedback on the process as well as explain the accountability aspects of the new process. We started with relatively low completion rate 40% of planned stories, but I knew that this is the callibration and adjustment period while the engineering team is getting used to the new workflow. This number started steadily growing up as we progressed. Asana also provided helpful metrics into how our team and each individual contributor is performing. Engineers loved the new process, as they stopped working in silos and had visibility into what rest of the team is working on. This also increased mobility, as now engineers could pick up each other tasks and grow their expertise in other areas of our systems. The word spread, and other engineering managers started asking me how to replicate the process. Eventually, our Engineering Director requested me to host an org-wide Knowledge Sharing session on and asking other teams to adopt our team's agile processes.
+
 # Earn Trust
 ## Question 1
 Tell me about a time when you had to communicate a change in direction that you anticipated people would have concerns with.

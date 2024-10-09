@@ -1,3 +1,15 @@
+# Base
+## About me
+* My name is Daniyar Yeralin, and I am an engineering manager and technical leader of a highly performant team of 8 software engineers.
+* My team owns quite a few products, but mainly customer-facing Shopper Panel app with 600K DAU, and advertiser-facing Amazon Brand Lift product to measure upper-funnel Brand Awareness levels.
+* I've been managing this team for the past 2 years, directly contributed to peoples career advancements which resulted in two promotions to middle level and one promotion to senior level. 
+* My management style is a playing coach, where I can jump in pair programming sessions with my engineers or discuss and provide low level feedback on their code or architecture designs
+* I established a highly performing and flexible agile practices, where my team consistently delivers 90% of estimated developer stories sprint-over-sprint
+  * This success brought attention from my senior leadership at Amazon, where they asked me to expand and share this practice across other engineering teams in my organization
+* I champion and directly contribute to operational success of my engineering team
+  * For example, in order to facilitate Sprint Planning, I created an LLM tool that my team can use to generate developer stories. All they need to do is to point the LLM bot to a Slack thread or email chain, and based on the context it would generate a dev story according to our template
+  * In moments, when my team is strained, I don't hesistate to become hands-on and help them by squashing smaller tasks or help investigating system failures
+
 # Earn Trust
 ## Question 1
 Tell me about a time when you had to communicate a change in direction that you anticipated people would have concerns with.

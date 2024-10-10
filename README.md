@@ -114,35 +114,37 @@ We don't always make the right judgment all the time. Tell me about a time when 
 * How have you applied what you learned?
 
 ### Answer
-**S:** My team had a year-long project that involved surfacing Amazon Brand Lift metrics on the main Amazon Advertising reporting page, where advertisers access all metrics regarding performance of their advertising campaigns. 
-Prior, we were hosting our Amazon Brand Lift application on a separate page, where advertisers can create a so-called Study, attach campaigns they would like to measure and wait for results. 
+**S:** 
+* My team had a year-long project that involved surfacing Amazon Brand Lift metrics on the main Amazon Ads reporting page
+* There advertisers access all metrics regarding performance of their advertising campaigns. 
+* Prior, we were hosting our Amazon Brand Lift application on a separate page, where advertisers can create a so-called Study, attach campaigns they would like to measure and wait for results. 
 
-**T:** In this case, the task was to measure Brand Lift for all existing advertising campaigns ahead of time, and surface it in a form of a single metric as part of the report.
-What was complicating the task, the fact that our Brand Lift metric is not aggregatable across dates like CTR or CPT (i.e. Brand Lift on Day 1 cannot be simply added to Brand Lift metric on Day 2), and Amazon Ads reporting layer could only work with such metrics.
-Another challenge, was that this work required integrating with 7 different internal services/teams and lots of rounds of reviews, approvals, and red taping.
+**T:** 
+* In this project, the task was to expose Brand Lift in a form of a single metric as part of the report.
+* What was complicating the task that our Brand Lift metric is not aggregatable across dates (i.e. Brand Lift on Day 1 cannot be simply added to Brand Lift metric on Day 2), and Amazon Ads reporting layer could not work with such metrics.
+* Another challenge, was that this work required integrating with 7 different internal services/teams and involved many reviews, approvals, and red taping.
 
-**A:** I knew that it will be a long process, so I started the planning phase as early as January with my PM and Senior SDE.
-Having reservations regarding this aggregation limitation, I applied the famous mechanism at Amazon called working backwards, where instead of building bottom-up and integrating with the first service.
-I started our journey by talking to the team owners of the last service in the chain, the reporting layer.
-I shared my reservations regarding the inability to aggregate our metric, and their Engineering Manager assured me that we can peform additional calculations within their service which would effectively alleviate the problem.
-With that confirmation, we continued our work which lasted almost 9 months of planning, approvals, design, and implementation work.
-Once my team reached the final step of integrating with the reporting layear, I found out that original manager departed Amazon.
-The successor surprised us with a refusal to add our calculation logic, citing introducing tech debt for their team.
+**A:** 
+* Having reservations regarding this aggregation limitation, I applied the famous mechanism at Amazon called Working Backwards, where instead of building bottom-up and integrating with the first service.
+* I started our journey by talking to the team owners of the last service in the chain, the reporting layer.
+* I shared my reservations regarding the limitation, however their Engineering Manager assured me that we can peform additional calculations within their service which would effectively alleviate the problem.
+* With that confirmation, we continued our work which lasted almost 9 months of planning, approvals, design, and implementation work.
+* Once my team reached the final step of integrating with the reporting layear, I found out that original manager has departed Amazon.
+* The successor surprised us with a refusal to add our calculation logic, citing introducing tech debt for their team.
 
-**R:** The project became red and immediately halted, requiring an escalation at directors level. 
-After prolonged discussions everybody agreed that two things:
-1. It is a fair concern, while they are ready to give us an exception to introduce our logic, but it would not be a good long-term solution.
+**R:** 
+* The project became red and immediately halted, requiring an escalation at the directors level. 
+* After prolonged discussions everybody agreed on two things:
+1. It was a fair concern, and while they are ready to give us an exception to introduce our logic, it would not be a good long-term solution.
 2. They also recongnized that it is not our fault, but a major limitation of Amazon Ads' reporting layer, where our competitors (Meta and Google) already support aggregating such metrics.
-
-With that conclusion, I decided to Pivot and instead extend our Studies page to surface these metrics.
-I personally continued to drive the long-term discussions of enhancing the reporting layer at the directors level, helping them gather use-cases and requirements.
-
-With this Pivot, however, our delivery date shifted by 3 months, as now we needed additional planning and reprioritization of tasks and resources.
-But in the end we managed to release this new feature to our customers alas not where we initially expected to be.
+* With that conclusion, I decided to Pivot and instead extend the Studies page to surface these metrics.
+* I personally continued to drive the long-term discussions of enhancing the reporting layer at the directors level, helping them gather use-cases and requirements.
+* With this Pivot, however, our delivery date shifted by 3 months, as now we needed additional planning and reprioritization of tasks and resources.
+* But in the end we managed to release this new feature to our customers alas not where we initially planned it to be.
 
 **Reflection**: 
-Looking back, my error in judgment was relying solely on verbal assurance from the original Engineering Manager without securing a documented consensus or technical feasibility assessment involving their senior engineering members.
-
-Another lesson learned is having plan B readily available, being ready to pivot without any delay.
-
-Since this experience, I've applied these learnings by implementing formal documentation processes in cross-team engagements and consistently developing backup plans in complex projects. 
+* Looking back, my error in judgment was relying solely on the verbal assurance from the original Engineering Manager without securing a documented consensus
+* or technical feasibility assessment involving their senior engineering members.
+* Another lesson learned was having plan B readily available, and being ready to pivot without any delay.
+* Since this experience, I've introduced formal documentation and alignment processes in cross-team engagements
+* and always having contingency plans for complex projects. 

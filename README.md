@@ -1,8 +1,17 @@
 # Base
 ## About me
+> * Highly performant team of 8 engs
+> * Customer-facing Shopper Panel app, Advertising-facing ABL
+> * Managing for over 2 years, career advancements
+> * Playing coach
+> * Highly efficient agile practices
+> * Success brough attention
+> * Champion operational success, LLM tool
+> * Help team when strained
+
 * My name is Daniyar Yeralin, and I am an engineering manager and technical leader of a highly performant team of 8 software engineers.
 * My team owns quite a few products, but mainly customer-facing Shopper Panel app with 600K DAU, and advertiser-facing Amazon Brand Lift product to measure upper-funnel Brand Awareness levels.
-* I've been managing this team for the past 2 years, directly contributed to peoples career advancements which resulted in two promotions to middle level and one promotion to senior level. 
+* I've been managing this team for over 2 years, directly contributed to peoples career advancements which resulted in three promotions to middle level and one promotion to senior level. 
 * My management style is a playing coach, where I can jump in pair programming sessions with my engineers or discuss and provide low level feedback on their code or architecture designs
 * I established a highly performing and flexible agile practices, where my team consistently delivers 90% of estimated developer stories sprint-over-sprint
   * This success brought attention from my senior leadership at Amazon, where they asked me to expand and share this practice across other engineering teams in my organization
@@ -17,6 +26,37 @@ Tell me about a time when you thought differently to improve a process that was 
 * How did you evaluate if the change improved the process?
 * Knowing what you know now, would you do anything differently?
 ### Answer
+
+> * S:
+>   * Mgrs: trace back work, provide progress status, estimate remaining work
+>   * Engs: work in silos, no visibility into others
+> * T:
+>   * Replace inadequate practices
+>   * Establish modern agile practices
+>   * Work becomes measureable, predictable and standartized
+>   * Read books/articles/lectures
+>   * Understand underlining reason
+>   * Another goal flexible, not just follow the book
+>   * Expriment and Iterate
+> * A:
+>   * Secured license to Asana for my team
+>   * Build initial structure
+>   * Wrote first stories
+>   * Created a wiki, outlined roles and responsibilities
+>   * Hosted a learning session about proposed workflow
+> * R:
+>   * Initial hesistation
+>   * Continued leading by example, hosting ceremonies and continued writing stories
+>   * Initially low completion rate
+>   * Asana provided helpful metrics
+>   * Eng loved this process
+>   * The word spread
+> * Reflection:
+>   * Challenging status quo
+>   * Expect initial resistence
+>   * Perseverance, work pays off
+
+
 **S:** Ever since I joined Amazon, it's been bothering me how engineering teams track their project progress. Typically, it is engineers creating one-liner tasks (like "Update schema for XYZ table") and managers maintaining their convoluted spreadsheet. This resulted in multitude of issues, starting from managers struggling to backtrack their teams work and estimate remaining work, ending with engineers working in silos and having no visibility or understanding of what their peers are working on.
 
 **T:** When I started managing my engineering team, my first goal was to get rid of these inadequate workflows and introduce a new process according to modern agile practices. My goal was to make our work measureable, predictable and standardized. I read a few books and articles about scrum framework and agile software development, and watched lectures on the topic. I wanted to understand not just how to organize these practices, but the underlining reason behind it. For example, I learned that Scoping meetings are not just used to assign points to a story and estimate the workload, but actually let the entire team learn about the task on hand while they may not necessarily be the one to actually work on it. Another goal I set for myself was that I would like to make it flexible, not just follow the book, and work together with the team and establish the process that would work for everyone, adjust it and experiment with it as we go.
@@ -35,8 +75,39 @@ Tell me about a time when you had to communicate a change in direction that you 
 * How did you handle questions and/or resistance?
 * Were you able to get people comfortable with the change?
 ### Answer
+
+> S:
+> * Goals, S-team, 4 metrics
+> * One of them was ABL metric
+> * Summary campaign reports
+> * S-team deprioritized
+> * Direction to Pivot
+> * Demoralizing news, OE tasks, less strict
+>
+> T:
+> * Break news not to lose motivation/morale
+>
+> A:
+> * First worked with PM
+> * With Pivot, better usage insights
+> * Resolve long-standing tech debt
+>
+> R:
+> * Crafted a careful message
+> * During all team meeting, broke the news
+> * While processing, shared "usage insights" finding (Customer Obsession)
+> * Intejected by one engineer about OE tasks, tech debt
+> * Shared on deprecating all solutions in favor of this
+> * Saw smiles
+> 
+> Reflection:
+> * Patient and analyze before communicating
+> * Understand implications and prep action plan
+> * Guide through transition
+> * Maintain trust and motivation
+
 **S:** At Amazon teams operate according to goals of different levels. For example, S-team goal is one of the most important ones since it is coming from the senior leadership level. Our project was part of an S-team goal to deliver 4 upper funnel metrics. Our team was responsible for delivering Brand Lift metric which would tell you brand awareness levels of your brand using combination of RCT (Randomized Control Trial) A/B experiments and Modeled Brand Lift estimations. The metrics were supposed to be included as part of the Summary Campaign Reports that typically receive majority of traffic from advertisers at Amazon Ads.
-However, a month before the release, I received news that the entire S-team goal was deprioritized, and our metric was no longer to be exposed on the report. Instead, the direction from leadership was that we take a pivot and integrate our metric as part of our Studies page which would take at least another 3 months to complete. I quickly realized that it would be a big bummer for my engineering team since they were working hard for the past 6 months to deliver this metric, and many have already anticipated that after the launch the team can take a breather and work on awaited Operational Excellence tasks under less strict timelines.
+However, a month before the release, I received news that the entire S-team goal was deprioritized, and our metric was no longer to be exposed on the report. Instead, the direction from leadership was that we take a pivot and integrate our metric as part of our Studies page which would take at least another 3 months to complete. I quickly realized that it would be very demoralizing news for my engineering team since they were working hard for the past 6 months to deliver this metric, and many have already anticipated that after the launch the team can take a breather and work on awaited Operational Excellence tasks under less strict timelines.
 
 **T:** My task was to break the news to my team yet to deliver it in a form where they would not lose motivation and lose morale from the fact that their project will extend for another three months.
 
@@ -114,6 +185,38 @@ We don't always make the right judgment all the time. Tell me about a time when 
 * How have you applied what you learned?
 
 ### Answer
+> S:
+> * Year-long project, ABL on Campaign Reporting page
+> * Prior hosting ABL on separate Studies
+> 
+> T:
+> * Exposing ABL as a single metric
+> * Metric not aggregatable
+> * 7 different integrations
+> 
+> A: 
+> * Worked backwards
+> * Got assurance
+> * Continued work for 9 months
+> * Reach final step, SDM is gone
+> * Successor refused
+> 
+> R:
+> * Project halted, required escalation
+> * Prolonged discussions
+> * We could add logic, but not scalable/exception
+> * Not our fault, major limitation
+> * I decided to Pivot, surface metics on Studies page
+> * Delivery shifted by 3 months
+> * Managed to release and deliver value
+> 
+> Reflection:
+> * Relying solely on verbal assurances
+> * Needed documented consensus and technical feasibility assessment
+> * Now established formal documentation and alignment processes for cross-team collabs
+> * Another lesson, always have contingency plan for large scale projects
+
+
 **S:** 
 * My team had a year-long project that involved surfacing Amazon Brand Lift metrics on the main Amazon Ads reporting page
 * There advertisers access all metrics regarding performance of their advertising campaigns. 

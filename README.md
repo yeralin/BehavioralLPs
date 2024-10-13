@@ -20,13 +20,12 @@
   * In moments, when my team is strained, I don't hesistate to become hands-on and help them by squashing smaller tasks or help investigating system failures
 
 # Think Big
-## Question 1
 Tell me about a time when you thought differently to improve a process that was working
 * What assumptions did you have to question?
 * How did you evaluate if the change improved the process?
 * Knowing what you know now, would you do anything differently?
-### Answer
 
+### Answer
 > * S:
 >   * Mgrs: trace back work, provide progress status, estimate remaining work
 >   * Engs: work in silos, no visibility into others
@@ -68,12 +67,21 @@ Tell me about a time when you thought differently to improve a process that was 
 **Reflection:** This experience has taught me how challenging it is to confront status quo, meet initial resistance, but with perseverance in trying to establish new, positive practices eventually pays back ten fold. Being open to feedback and willing to continuously adjust and refine my approach was crucial for my team's long-term success. 
 
 # Earn Trust
-## Question 1
 Tell me about a time when you had to communicate a change in direction that you anticipated people would have concerns with.
 * What did you do to understand the concerns and mitigate them?
 * Were there any changes you made along the way after hearing these concerns?
 * How did you handle questions and/or resistance?
 * Were you able to get people comfortable with the change?
+# Bias For Action
+Tell me about a time when you saw an issue that would impact your team and took a proactive approach to solve it.
+* What was the obstacle?
+* What did you do and what was the outcome?
+* What did you learn from this situation?
+# Have Backbone; Disagree and Commit
+Describe a time when you had to support a business initiative that you didn't agree with.
+* How did you handle it?
+* How did you deliver the message to your team?
+
 ### Answer
 
 > S:
@@ -117,73 +125,37 @@ However, a month before the release, I received news that the entire S-team goal
 
 **Reflection:** This experience taught me a valuable lesson about the importance of patience and thorough analysis before communicating changes. By taking the time to fully understand the implications and craft a clear action plan, I was able to guide the team more effectively through the transition, ultimately maintaining their trust and motivation.
 
-#### Shorter Answer (ChatGPT)
-**S:** At Amazon, our team was tasked with delivering a Brand Lift metric as part of an S-team goal. However, a month before the release, leadership decided to deprioritize this initiative, and we were directed to pivot our efforts to integrate the metric into the Studies page, extending our timeline by three months. I knew this change would be demoralizing for my team, who had been working hard for six months with the expectation of completing this milestone.
-
-**T:** My task was to communicate this reframe it in a way that kept the team motivated and aligned with the new direction while addressing their concerns about workload and timelines.
-
-**A:** First, I collaborated with my Product Manager to analyze the benefits of the pivot. We discovered that integrating with the Studies page would provide better insights into how our metrics were used by customers and also eliminate long-standing technical debt. Armed with this, I crafted a clear and empathetic message, presenting the pivot as a customer-obsessed decision aligned with Amazon's principles. I anticipated concerns about delayed operational tasks, so I addressed this directly, explaining how the pivot would actually resolve technical debt and streamline future operations.
-
-**R:** When I communicated the pivot to the team, I framed it as an opportunity to better serve our customers while simultaneously improving our technical infrastructure. Although there was initial hesitation, I handled questions openly, particularly around the impact on our operational tasks. Once I reassured them that this shift would lead to eliminating technical debt, I saw positive reactions and a renewed sense of purpose. The team embraced the change, and we moved forward with a clear focus on delivering the best outcome for our customers. This experience taught me a valuable lesson about the importance of patience and thorough analysis before communicating changes. By taking the time to fully understand the implications and craft a clear action plan, I was able to guide the team more effectively through the transition, ultimately maintaining their trust and motivation.
-
-#### Also works for the following questions:
-##### Deliver Results
-Tell me about a time when you had significant, unanticipated obstacles to overcome in achieving a key goal. 
-* What was the obstacle?
-* Were you eventually successful? 
-* Knowing what you know now, is there anything you would have done differently?
->  1. Establish a more robust communication channel with senior leadership to anticipate such significant changes earlier.
->  2. Develop a more flexible roadmap that could accommodate sudden shifts in priorities without significantly impacting project timelines.
-##### Bias For Action
-Tell me about a time when you saw an issue that would impact your team and took a proactive approach to solve it.
-* What was the obstacle?
-* What did you do and what was the outcome?
-* What did you learn from this situation?
->    1. The importance of analyzing changes for hidden opportunities.
->    2. The power of framing challenges in terms of company values (like Customer Obsession) to maintain team alignment.
->    3. The significance of collaborative problem-solving with other stakeholders (like the Product Manager) to find comprehensive solutions.
->    4. The effectiveness of transparent communication in maintaining team trust and motivation during unexpected changes.
-#### Have Backbone; Disagree and Commit
-Describe a time when you had to support a business initiative that you didn't agree with.
-> We had been working diligently on this for six months, and the team was anticipating a well-deserved breather after launch to focus on Operational Excellence tasks. A month before release, I received news ... would take an additional three months. While I had concerns about team morale and the extended timeline, Although I initially disagreed with the decision due to its potential impact on my team morale, I understood that I needed to support this new direction and effectively communicate it to my team.
-* How did you handle it?
-* How did you deliver the message to your team?
-#### Customer Obsession
-Give me an example of a time when you evaluated the customer experience of your product or service. * What did you do?
-* What was the result?
-> **Task:** As the Engineering Manager, I needed to evaluate how this change would impact our customers' experience and ensure we were still delivering value.
->
-> **Action:** I collaborated closely with my Product Manager to assess the customer impact of this pivot. We conducted a thorough analysis of the new integration plan and discovered several key insights:
->
-> By integrating with the Studies page that we owned, we would gain better visibility into how customers were using our metrics. This was a significant improvement over the Summary Report, where we wouldn't have access to usage data.
->
-> This integration would allow us to provide a more comprehensive and cohesive experience for our customers, as they could now access all related metrics and studies in one place.
-> 
-> The pivot would enable us to deprecate older, less effective Brand Lift methodologies, simplifying the customer experience and reducing potential confusion.
->
-> We realized this change aligned more closely with our principle of Customer Obsession, as it would provide more actionable insights for our advertisers.
->
-> Based on these findings, I worked with my team to redesign our implementation plan. We focused on creating a seamless integration with the Studies page, ensuring that the new location would not only maintain but enhance the value proposition for our customers.
-> 
-> **Result:** The pivot resulted in several positive outcomes for our customers:
->
-> 1. Improved Usability: Customers could now access Brand Lift metrics alongside other relevant studies, providing a more holistic view of their advertising performance.
->
-> 2. Enhanced Insights: With better usage data, we were able to iterate and improve our product more quickly based on actual customer behavior.
->
-> 3. Simplified Experience: By deprecating older methodologies, we reduced complexity for our customers, making it easier for them to understand and utilize our Brand Lift metrics.
->
-> 4. Increased Adoption: Although I don't have specific numbers, we observed an increase in the usage of our Brand Lift metrics after the integration, indicating that customers found value in the new implementation.
-> This experience reinforced the importance of always considering the customer impact, even when faced with unexpected changes. By turning a potential setback into an opportunity to enhance customer experience, we demonstrated true Customer Obsession, a core Amazon leadership principle.
-
-
 # Are Right, A Lot
-## Question 1
 We don't always make the right judgment all the time. Tell me about a time when you made an error in judgment.
 * What was the impact?
 * What did you learn?
 * How have you applied what you learned?
-
+We don't always make the right decision all the time. Tell me about a time when you made a bad decision.
+* What was the impact of that decision?
+* What did you learn?
+* How have you applied what you learned?
+# Deliver Results
+Tell me about a time when you had significant, unanticipated obstacles to overcome in achieving a key goal. 
+* What was the obstacle?
+* Were you eventually successful? 
+* Knowing what you know now, is there anything you would have done differently?
+# Bias For Action
+Give me an example of a calculated risk that you have taken where speed was critical.
+* What was the situation and how did you handle it?
+* What steps did you take to mitigate the risk?
+* What was the outcome?
+* Knowing what you know now, would you have done anything differently?
+Tell me about a time when you worked against tight deadlines and didn't have time to consider all options before making a decision.
+* How much time did you have?
+* What approach did you take?
+* What did you learn from the situation?
+Tell me about a time when you had to gather information and respond immediately to a situation.
+* What was the outcome?
+* Would you have done anything differently?
+Give me an example of when you had to make an important decision and had to decide between moving forward or gathering more information.
+* What did you do?
+* What was the outcome?
+* What information is necessary for you to have before acting?
 ### Answer
 > S:
 > * Year-long project, ABL on Campaign Reporting page
@@ -251,3 +223,8 @@ We don't always make the right judgment all the time. Tell me about a time when 
 * Another lesson learned was having plan B readily available, and being ready to pivot without any delay.
 * Since this experience, I've introduced formal documentation and alignment processes in cross-team engagements
 * and always having contingency plans for complex projects. 
+
+
+# Customer Obsession
+Give me an example of a time when you evaluated the customer experience of your product or service. * What did you do?
+* What was the result?

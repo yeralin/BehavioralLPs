@@ -6,18 +6,20 @@
 > * Playing coach
 > * Highly efficient agile practices
 > * Success brough attention
-> * Champion operational success, LLM tool
 > * Help team when strained
+> * Unique background
+> * Recent Sr Software Engineer
+> * Executive-MBA with top-tier training
+> * Tangible impact fosters
 
 * My name is Daniyar Yeralin, and I am an engineering manager and technical leader of a highly performant team of 8 software engineers.
 * My team owns quite a few products, but mainly customer-facing Shopper Panel app with 600K DAU, and advertiser-facing Amazon Brand Lift product to measure upper-funnel Brand Awareness levels.
 * I've been managing this team for over 2 years, directly contributed to peoples career advancements which resulted in three promotions to middle level and one promotion to senior level. 
 * My management style is a playing coach, where I can jump in pair programming sessions with my engineers or discuss and provide low level feedback on their code or architecture designs
+* In moments, when my team is strained, I don't hesistate to become hands-on and help them by squashing smaller tasks or help investigating system failures
 * I established a highly performing and flexible agile practices, where my team consistently delivers 90% of estimated developer stories sprint-over-sprint
   * This success brought attention from my senior leadership at Amazon, where they asked me to expand and share this practice across other engineering teams in my organization
-* I champion and directly contribute to operational success of my engineering team
-  * For example, in order to facilitate Sprint Planning, I created an LLM tool that my team can use to generate developer stories. All they need to do is to point the LLM bot to a Slack thread or email chain, and based on the context it would generate a dev story according to our template
-  * In moments, when my team is strained, I don't hesistate to become hands-on and help them by squashing smaller tasks or help investigating system failures
+* I am the ideal candidate for this role due to my unique background of technical expertise and strong leadership skills. As a recent senior software engineer, I deeply understand the challenges faced by my hands-on developers and can effectively coach them on technical challenges. My Executive-MBA degree from the top columbia business school equipped me with top-tier leadership, management, and entrepreneurial training. I can see how this unique blend generates tangible impact on the work I deliver by fostering high-performing, supportive, innovative and growth-oriented environment.
 
 # Think Big
 Tell me about a time when you thought differently to improve a process that was working

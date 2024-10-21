@@ -19,7 +19,7 @@
 * In moments, when my team is strained, I don't hesistate to become hands-on and help them by squashing smaller tasks or help investigating system failures
 * I established a highly performing and flexible agile practices, where my team consistently delivers 90% of estimated developer stories sprint-over-sprint
   * This success brought attention from my senior leadership at Amazon, where they asked me to expand and share this practice across other engineering teams in my organization
-* I am the ideal candidate for this role due to my unique background of technical expertise and strong leadership skills. As a recent senior software engineer, I deeply understand the challenges faced by my hands-on developers and can effectively coach them on technical challenges. My Executive-MBA degree from the top columbia business school equipped me with top-tier leadership, management, and entrepreneurial training. I can see how this unique blend generates tangible impact on the work I deliver by fostering high-performing, supportive, innovative and growth-oriented environment.
+* I am the ideal candidate for this role due to my unique background of technical expertise and strong leadership skills. As a recent senior software engineer, I deeply understand the challenges faced by my hands-on developers and can effectively coach them on technical challenges. My Executive-MBA degree from columbia business school equipped me with top-tier leadership, management, and entrepreneurial training. I can see how this unique blend generates tangible impact on the work I deliver by fostering high-performing, supportive, innovative and growth-oriented environment.
 
 # Think Big
 Tell me about a time when you thought differently to improve a process that was working

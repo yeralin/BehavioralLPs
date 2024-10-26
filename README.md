@@ -130,6 +130,53 @@ However, a month before the release, I received news that the entire S-team goal
 
 **Reflection:** This experience taught me a valuable lesson about the importance of patience and thorough analysis before communicating changes. By taking the time to fully understand the implications and craft a clear action plan, I was able to guide the team more effectively through the transition, ultimately maintaining their trust and motivation.
 
+---
+
+Can you tell me about a time when there was significant disagreement between engineering and product teams?
+* How you handled it?
+
+### Answer
+
+> S:
+> * Product committed to a sudden change with unrealistic timelines
+> * Asked to pause ongoing projects
+>
+> T:
+> * Introducing Path to Conversion
+> * Aggressive timelines
+> * Good part, design completed
+>
+> A:
+> * Did not reject and push back, started discussing
+> * Explained likely to miss timelines
+> * Product gave cart blanche
+> * Collected requiremenents and proposed features in writing
+> * Worked with my Sr Eng, t-shirt sized
+>
+> R:
+> * Prepared WBP
+> * In entirety takes 6 months
+> * Worked together with product identify P0 and P1 features
+> * Effectivelly created MVP that can be delivered in 3 months
+> * Once aligned, started impl and delivered the project
+>
+> Reflection:
+> * Obvious unrealistic expectations, don't take immediate defensive position
+> * Don't be another problem, be part of solution
+> * Deconstruct the problem and find path forward 
+
+**S:** There was a situation where my product team committed to a sudden switch in deliverables with unrealistic timeslines. I was asked to pause all ongoing projects in favor of this one which was orthogonal to what we were doing.
+
+**T:** It involved introducing so called Path to Conversion metric which can be calculated using available traffic data and build a chronological line of exposure events that eventually led to a conversion. The timelines were overly aggressive, where we had to deliver this project within next 3 months. The good part was that the design was already completed, and I needed to carry out the execution portion of it.
+
+**A:** Instead of rejecting and pushing back this aggressive deliverable right away, I initiated the discussion with my product team. I explained that with such aggressive timelines my team is very likely to not meet the deadline. The product team told me that this sudden reprioritization came from our SVP of Ads which effectivelly gives me a cart-blanche on the resourcing and approvals, where I can lend engineers from sister teams for this project.
+I worked further with my product team where we clarified functional requirements and features for this project. After getting those in writing, I worked with my Sr Engineer where we went through the design doc and requirements, and t-shirt sized proposed features.
+
+**R:** I prepared a WBP for my product team where I estimated delivery dates for the project with all proposed features. In its entirety according to my plan, the project would estimated to be delivered in 6 months timeline, but I worked together with the product team to identify which set of features can be prioritized first as Phase 0 and which can be pushed back to Phase 1. By identifying feature set required for phase 0 (effectivelly an MVP), me and the product team managed to arrive to the original requirement of delivering the project within 3 months. Once everyone was aligned, my team initiated the implementation phase and delivered the project within the alloted timeline.
+
+**Reflection:** That experience tought me a few important things. Even when it is obvious that proposed project has unrealistic expectations, you should not immediatelly take defensive position. You should not make more trouble, but be a part of a solution by deconstructing a problem piece by piece and try to finding a right path forward.
+
+
 # Are Right, A Lot
 We don't always make the right judgment all the time. Tell me about a time when you made an error in judgment.
 * What was the impact?
@@ -233,3 +280,5 @@ Give me an example of when you had to make an important decision and had to deci
 # Customer Obsession
 Give me an example of a time when you evaluated the customer experience of your product or service. * What did you do?
 * What was the result?
+
+

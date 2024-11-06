@@ -165,7 +165,7 @@ Can you tell me about a time when there was significant disagreement between eng
 > * Don't be another problem, be part of solution
 > * Deconstruct the problem and find path forward 
 
-**S:** There was a situation where my product team committed to a sudden switch in deliverables with unrealistic timeslines. I was asked to pause all ongoing projects in favor of this one which was orthogonal to what we were doing.
+**S:** There was a situation where my product team committed to a sudden switch in deliverables with unrealistic timelines. I was asked to pause all ongoing projects in favor of this one which was orthogonal to what we were doing.
 
 **T:** It involved introducing so called Path to Conversion metric which can be calculated using available traffic data and build a chronological line of exposure events that eventually led to a conversion. The timelines were overly aggressive, where we had to deliver this project within next 3 months. The good part was that the design was already completed, and I needed to carry out the execution portion of it.
 
@@ -174,8 +174,46 @@ I worked further with my product team where we clarified functional requirements
 
 **R:** I prepared a WBP for my product team where I estimated delivery dates for the project with all proposed features. In its entirety according to my plan, the project would estimated to be delivered in 6 months timeline, but I worked together with the product team to identify which set of features can be prioritized first as Phase 0 and which can be pushed back to Phase 1. By identifying feature set required for phase 0 (effectivelly an MVP), me and the product team managed to arrive to the original requirement of delivering the project within 3 months. Once everyone was aligned, my team initiated the implementation phase and delivered the project within the alloted timeline.
 
-**Reflection:** That experience tought me a few important things. Even when it is obvious that proposed project has unrealistic expectations, you should not immediatelly take defensive position. You should not make more trouble, but be a part of a solution by deconstructing a problem piece by piece and try to finding a right path forward.
+**Reflection:** That experience tought me a few important things. Even when it is obvious that proposed project has unrealistic expectations, you should not immediatelly take defensive stance. You should not make more trouble, but be a part of a solution by deconstructing a problem piece by piece and try to finding a right path forward.
 
+---
+
+Tell me about the most successful product-engineering partnership? 
+* What made it work so well?
+
+### Answer
+
+> S:
+> * Proposals come late in the year, no time for tech feasibility
+> * Results in cutting corners to meet deliverable
+> * Requested to get myself involved early
+> T:
+> * Got involved very early, competitive/market analysis
+> * Extremelly ambigous ideas, almost counter-productive
+> * Extend surveying capabilities to Twitch and other mediums
+> * Gave me advantage to think on tech feasibility and to veto
+> A:
+> * Discussed idea with friend from Twitch
+> * Realized overlap issue, demo data
+> * Discussed issue with PM, and started living doc
+> * Requested BIE to do overlap analysis
+> R:
+> * Received results, 35%
+> * Involved Sr SDE, brainstormed and estimated larger # of surveys
+> * Quickly calculated IMR impact, PM offset by saved survey rewards cost
+> * Both happy and aligned, helped PM draft up proposal
+> * Ensured technical feasibility, eng team aware and started thinking
+> Reflection:
+> * See something not working, propose changing it (Bezos)
+> * No bad intentions, lack of time
+> * By getting myself involved early, tech feasibility and learning PM ropes
+> * Shared successful collab with leadership, prepped a doc on the process for other SDMs
+
+**S:** The most successful product-engineering partnership happens when engineering is involved from the beginning in the ideation step. Because typically, the project proposals come very late in the year, and engineering team does not have an opportunity to perform technical feasibility test or build a proof of concept. It typically results in cutting corners in order to meet project deliverable. It is a common complaint from engineering teams at Amazon. Since I am very close with our product manager Jay, and we respect each other as partners. I've discussed that issue with Jay quite extensively. I've requested to get me involved in the process as soon as technically possible. 
+**T:** That resulted in the very early stage where typically engineering teams are not directly involved as it covers competitive and market analysis. The idea was so ambigous that having more voices was almost counter productive. That's when the idea of expanding our surveying capabilities beyond Shopper Panel came along. We wanted to collect surveys from other mediums such as Twitch streams, IMDB TV and Prime Video platforms. Being involved in the process so early gave me an advantage to perform a quick POC and having ability to veto or green light it before it was approved.
+**A:** I've reached out to an old friend of mine who was working on Twitch side of things and ran the idea by him. While discussing the idea, I quickly realized that a potential issue might be the Twitch-Amazon userbase overlap. The problem is that in order to run Amazon Brand Lift we required demographics data which typically came with Amazon user data, but on Twitch-side they were not collecting such. I came back with my findings to my product manager, and we decided to do a quick overlap analysis with Twitch userbase before proposing the idea to our leadership. I created a live document collecting my technical feasibility findings and shared it with my PM. Then, I requested our BIE to perform such analysis to find out how many Twitch users can be linked back to their Amazon accounts.
+**R:** After a few days, I received the results that nearly 35% of Twitch users are also identifiable Amazon customers. That's when I involved our senior enginer and the PM where together we brainstormed around this number and estimated that with a larger amount of surveys we could collect enough data to perform Brand Lift analysis with similar statistical strength despite low overlap. I quickly estimated Infra costs required for issuing increased amount of surveys which was significant compared to our current IMR spend. However, together with the PM we offset it by saved survey rewards since on Twitch it would be non-incentive based surveys. With that offset, overall we would be saving the budget. Once we both were aligned, I helped the PM draft up the final proposal that he then presented to our senior leadership and got it approved. By doing so, I ensured a few things, first the idea was properly evaluated for its technical feasibility before being prioritized by our leadership, second engineering team became aware of the upcoming project ahead of time which led it to already start thinking on the implementation details ahead of time.
+**Reflection:** This experience tought me that if you see that something is not working, propose changing it (Bezos said that good intentions don't work, good mechanisms do). In this case, our product and leadership teams did not want to give technically unfeasible projects to eng teams and set them up for failure. They had good intentions that came very late in the pipeline which impacted engineering teams later on. By getting myself involved very early in the process, not only I was able to perform early technical feasibility and enhance the process, I also learned how product teams come up with ideas and now better understand their processes. Me and the PM shared our learnings with our leadership team which became a template for success across our organization. I documented this engagement model and shared it with other engineering managers to adopt in the upcoming year.
 
 # Are Right, A Lot
 We don't always make the right judgment all the time. Tell me about a time when you made an error in judgment.

@@ -181,6 +181,9 @@ I worked further with my product team where we clarified functional requirements
 Tell me about the most successful product-engineering partnership? 
 * What made it work so well?
 
+Tell me about a time when you led a complex project with unclear requirements or minimal structure. 
+* How did you bring clarity and drive it to completion?
+
 ### Answer
 
 > S:

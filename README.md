@@ -4,22 +4,22 @@
 > * Customer-facing Shopper Panel app, Advertising-facing ABL
 > * Managing for over 2 years, career advancements
 > * Playing coach
-> * Highly efficient agile practices
-> * Success brough attention
 > * Help team when strained
 > * Unique background
 > * Recent Sr Software Engineer
 > * Executive-MBA with top-tier training
 > * Tangible impact fosters
+> * Highly efficient agile practices
+> * Success brough attention
 
 * My name is Daniyar Yeralin, and I am an engineering manager and technical leader of a highly performant team of 8 software engineers.
 * My team owns quite a few products, but mainly customer-facing Shopper Panel app with 600K DAU, and advertiser-facing Amazon Brand Lift product to measure upper-funnel Brand Awareness levels.
 * I've been managing this team for over 2 years, directly contributed to peoples career advancements which resulted in three promotions to middle level and one promotion to senior level. 
 * My management style is a playing coach, where I can jump in pair programming sessions with my engineers or discuss and provide low level feedback on their code or architecture designs
 * In moments, when my team is strained, I don't hesistate to become hands-on and help them by squashing smaller tasks or help investigating system failures
+* I am the ideal candidate for this role due to my unique background of technical expertise and strong leadership skills. As a recent senior software engineer, I deeply understand the challenges faced by my hands-on developers and can effectively coach them on technical challenges. My Executive-MBA degree from columbia business school equipped me with top-tier leadership, management, and entrepreneurial training. I can see how this unique blend generates tangible impact on the work I deliver by fostering high-performing, supportive, innovative and growth-oriented environment.
 * I established a highly performing and flexible agile practices, where my team consistently delivers 90% of estimated developer stories sprint-over-sprint
   * This success brought attention from my senior leadership at Amazon, where they asked me to expand and share this practice across other engineering teams in my organization
-* I am the ideal candidate for this role due to my unique background of technical expertise and strong leadership skills. As a recent senior software engineer, I deeply understand the challenges faced by my hands-on developers and can effectively coach them on technical challenges. My Executive-MBA degree from columbia business school equipped me with top-tier leadership, management, and entrepreneurial training. I can see how this unique blend generates tangible impact on the work I deliver by fostering high-performing, supportive, innovative and growth-oriented environment.
 
 ### Why hire me
 I bring a rare blend of deep technical expertise and business acumen that transforms ambitious goals into tangible results at any organization. I have a proven track record of leading and launching high-impact, revenue generating products at scale. As an Engineering Manager at Amazon, I've been leading a team of 8 engineers through successful execution of multiple complex, year-long projects, while fostering a culture of innovation and growth, resulting in 4 promotions (1 to Senior position). My Executive-MBA degree from Columbia Business School has equipped me with top-tier training in leadership, management, and entrepreneurship, further enhancing my engineering management skills. I truly believe that this powerful blend of hands-on technical expertise, leadership experience from Amazon, and business knowledge makes me uniquely qualified to drive innovation and excellence within Google's engineering organization.

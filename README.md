@@ -87,6 +87,10 @@ Describe a time when you had to support a business initiative that you didn't ag
 * How did you handle it?
 * How did you deliver the message to your team?
 
+Give me an example of a time when you evaluated the customer experience of your product or service.
+* What did you do?
+* What was the result?
+
 ### Answer
 
 > S:
@@ -327,7 +331,45 @@ Give me an example of when you had to make an important decision and had to deci
 
 
 # Customer Obsession
-Give me an example of a time when you evaluated the customer experience of your product or service. * What did you do?
-* What was the result?
 
+
+---
+
+Share an example of when you helped translate complex technical constraints to product stakeholders.
+
+Describe a situation where you had to push back on product requirements to ensure technical stability/scalability.
+* How did you handle the conversation?
+
+Describe a time when you had to drive a controversial technical decision.
+* How did you build consensus?
+
+What's your proudest product achievement and why?
+* What was your specific role in making it successful?
+
+Share an example of when you had to influence a senior stakeholder who disagreed with your approach.
+
+Tell me about a time when you had to make an unpopular decision for the good of the business
+
+**S:**
+* I was given a proposal document outlining an idea to collect ad exposure data from panelists using VPN profiles
+* The idea was questionable from the privacy perspective, and included a section to cover for a potential PR risk by hiring an independent consulting firm to analyze the final solution
+
+**T:**
+* I was tasked with evaluating the technical feasibility of the project and executing it (design, planning, implementation, etc.)
+* I found out that they wanted to collect data on where and when panelists get exposed to Amazon ads, the data were to be used for future modeling based targeting (with impending loss of cookies and other identifiers)
+
+**A:**
+* I came up with an alternative idea of using DNS profiles instead, as it would allow us to collect the same data without any loss in measurement quality
+* However, it would be harder to execute from the technical standpoint
+* The changes to this proposal document this late in the process would have been highly risky and not met positively by leaderish, but I truly believed that if we are trully Customer Obsessed company by taking this pivot we would be doing right by our customer
+* I worked closely with one of my engineers to perform a quick PoC. Since I have a strong networking background, I explained my idea to him and by doing a few pair programming sessions we confirmed that we can collect the same data using DNS profiles without any drop in measurement quality
+
+**R:**
+* I drafted up the pivot plan and presented it to the product team which was initially met skeptically as with this plan they would have to go through another round of privacy and leadership approvals
+* I defended my position claiming that by taking this pivot and using DNS approach instead of VPN profiles, we would be (1) doing right by our customer and not introduce any potential privacy issues, and (2) we wouldn't have to hire any independent contractors to analyze our solution, as with DNS approach it would be pretty easy to see that we are only collecting Amazon Ads related data
+* With that I managed to convince my product team and leadership to take this pivot, ultimatelly the project was delayed by an extra month but to this day everyone agrees that it was a right decision to make
+
+**Reflection:**
+* This experience has taught me that even if you might not be a fan of the idea, you can be the one to turn it into a positive outcome
+* Being Customer Obsessed not only pays off for our customers, but also pays off on your own work. If I was not Customer Obsessed I would have continued with the initial, suboptimal idea and eventually it would lead to higher reputational risks for the company as well as privacy risks for our customers
 
